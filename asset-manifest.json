@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-redux-saga-demo/static/js/main.e68397b9.chunk.js",
+    "main.js.map": "/react-redux-saga-demo/static/js/main.e68397b9.chunk.js.map",
+    "runtime-main.js": "/react-redux-saga-demo/static/js/runtime-main.550f706a.js",
+    "runtime-main.js.map": "/react-redux-saga-demo/static/js/runtime-main.550f706a.js.map",
+    "static/js/2.ee204bc7.chunk.js": "/react-redux-saga-demo/static/js/2.ee204bc7.chunk.js",
+    "static/js/2.ee204bc7.chunk.js.map": "/react-redux-saga-demo/static/js/2.ee204bc7.chunk.js.map",
+    "index.html": "/react-redux-saga-demo/index.html",
+    "precache-manifest.51e4ab954d9b5b6c37186c7018089def.js": "/react-redux-saga-demo/precache-manifest.51e4ab954d9b5b6c37186c7018089def.js",
+    "service-worker.js": "/react-redux-saga-demo/service-worker.js",
+    "static/js/2.ee204bc7.chunk.js.LICENSE.txt": "/react-redux-saga-demo/static/js/2.ee204bc7.chunk.js.LICENSE.txt",
+    "static/media/loading_spinner.gif": "/react-redux-saga-demo/static/media/loading_spinner.078aa3f0.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.550f706a.js",
+    "static/js/2.ee204bc7.chunk.js",
+    "static/js/main.e68397b9.chunk.js"
+  ]
+}
